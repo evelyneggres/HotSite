@@ -1,0 +1,44 @@
+body
+{
+    background-color: #b9ad52be;
+}
+
+header{
+    background-color: #a2943a;
+    border: #a2943a 1px solid;
+    border-radius: 5px;
+    display: block;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left:0;
+    
+}
+
+
+h1{
+    color: #fff798;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    padding: 18px;
+    text-align: justify;
+}
+
+
+li{
+    text-align: left;
+    font-size: 22px;
+    padding: 10px;
+    height: 30px;
+}
+
+.title{
+    font-size: 50px;
+    color: #d1c669;
+    text-align: center;
+    text-shadow: 5px 5px 8px rgb(6, 6, 6);
+    border: 15px solid rgba(255, 255, 255, 0.333);
+}
